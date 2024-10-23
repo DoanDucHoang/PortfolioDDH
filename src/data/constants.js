@@ -129,7 +129,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://vj-partner.com/uploads/img/general/1638966072-logo-VJP-[306x75].png",
+    img: "https://vjp.group/wp-content/uploads/2024/04/viet-japan-partner-group-n.png",
     role: "Fullstack Developer",
     company: "Viet Japan Partner",
     date: "January 2023 - September 2023",
@@ -235,7 +235,7 @@ export const projects = [
       "Javascript",
     ],
     category: "web app",
-    github: "https://github.com/DoanDucHoang",
+    github: "https://github.com/DoanDucHoang/DeTaiWeb",
     webapp: "https://doanduchoang2807.000webhostapp.com/",
   },
   {
@@ -248,7 +248,7 @@ export const projects = [
       "https://i.postimg.cc/Yq0S0Zjy/Screenshot-2024-04-20-000051.png",
     tags: ["React Js", "Javascript"],
     category: "machine learning",
-    github: "https://github.com/DoanDucHoang",
+    github: "https://github.com/DoanDucHoang/netflix_clone",
     webapp: "",
   },
   {
@@ -261,15 +261,26 @@ export const projects = [
       "https://i.postimg.cc/x1wjsPnf/Screenshot-2024-04-20-000607.png",
     tags: ["ReactJs", "NodeJs", "MongoDB", "ExpressJs"],
     category: "web app",
-    github: "https://github.com/DoanDucHoang",
+    github: "https://github.com/DoanDucHoang/k-music",
     webapp: "https://kmusic-d2k.web.app/",
   },
-];
-
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  {
+    id: 9,
+    title: "Booking Health",
+    date: "April 2024 - August 2024",
+    description:
+      "Booking Health is my graduation project that enables people to book appointments and allows doctors to manage their patients effectively.",
+    image:
+      "https://i.postimg.cc/BQNgtZkX/Picture1.png",
+    tags: [
+      "ReactJs",
+      "MySQL",
+      "NodeJs",
+      "ExpressJs",
+      "Redux",
+    ],
+    category: "web app",
+    github: "https://github.com/DoanDucHoang/booking-health",
+    webapp: "https://github.com/DoanDucHoang/booking-health",
+  },
 ];
