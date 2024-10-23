@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.fb540afa.js",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.6208402a209ca929d57d.jpg",
+    "static/media/logohoang.png": "/static/media/logohoang.285433f4dca5813bcd2e.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.fb540afa.js.map": "/static/js/main.fb540afa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.fb540afa.js"
+  ]
+}
